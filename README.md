@@ -1,7 +1,6 @@
 - 👋 Hi, I’m brainless.
 - 👀 I’m interested in backend development, devops.
 - 🌱 I’m currently learning frontend development, team management.
-- 📫 How to reach me [...](https://www.linkedin.com/in/pirat-phatphak/)
 - ⚡ Fun fact: Are you encountering any technical problems? I recommend asking the ChatGPT for help.
 
 <!---
